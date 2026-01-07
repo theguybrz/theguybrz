@@ -46,8 +46,7 @@ Código limpo, organizado e com foco em segurança
  <a href="https://discord.gg/guylhermeoliveira_97000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
-##
-![Snake animation](https://github.com/theguybrz/theguybrz/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
