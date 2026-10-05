@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Guy 👋
 
 
-Sou Desenvolvedor Backend com foco em Engenharia de Dados e Cibersegurança, atuando há anos com Python no desenvolvimento de APIs, automações e soluções orientadas a dados.
+Sou Desenvolvedor Backend com foco em Engenharia de Dados e Cibersegurança, atuando há 4 anos com Python no desenvolvimento de APIs, automações e soluções orientadas a dados.
 
 Tenho forte experiência com Pandas, SQL e processos de ETL, trabalhando com extração, tratamento e análise de dados para geração de insights e apoio à tomada de decisão. Já desenvolvi RPA’s, pipelines de dados e dashboards para BI, sempre com atenção à performance, qualidade e governança dos dados.
 
