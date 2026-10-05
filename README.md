@@ -41,11 +41,21 @@ Código limpo, organizado e com foco em segurança
 
 
 #
-<div> 
-  <a href="https://instagram.com/theguybrz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guylhermeoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/guylhermeoliveira_97000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/guylhermeoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://instagram.com/theguybrz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="https://discord.gg/guylhermeoliveira_97000" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
+
+
 
 #
 <picture align="center">
